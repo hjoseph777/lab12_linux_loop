@@ -6,3 +6,6 @@ Learning the  concept of for loops 2
 -[loops_6.sh](loops_6.sh): Shows a while loop that multiplies a given number by the counter (from 1 to 10) and prints the result.
 
 -[loops_7.sh](loops_7.sh): Uses a while loop to read lines from a file (courses.txt) and convert each line to uppercase.
+
+#Output
+![output](Lab12Picture1.png)
