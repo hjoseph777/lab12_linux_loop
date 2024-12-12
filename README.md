@@ -7,5 +7,5 @@ Learning the  concept of for loops 2
 
 -[loops_7.sh](loops_7.sh): Uses a while loop to read lines from a file (courses.txt) and convert each line to uppercase.
 
-#Output
+_ #Output
 ![output](Lab12Picture1.png)
